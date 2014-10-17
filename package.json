@@ -1,0 +1,19 @@
+{
+  "name": "tessel-rfscanner",
+  "version": "0.1.0",
+  "description": "Athega Jullunch RFID Scanner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lizell/tessel-rfscanner.git"
+  },
+  "author": "Christian Lizell <christian.lizell@athega.se> (http://athega.se/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizell/tessel-rfscanner/issues"
+  },
+  "homepage": "https://github.com/lizell/tessel-rfscanner"
+}
